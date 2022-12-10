@@ -1,1 +1,1 @@
-# Flatout2Idb
+Please use STORE when saving your IDBs, otherwise cloning this repo will be very hard as diffs of compressed data are large.
